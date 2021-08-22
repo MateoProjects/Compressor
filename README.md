@@ -95,4 +95,12 @@ Les principals estructures de dades han sigut: Array de 2 dimensions, ArrayList 
 AbstractMap (Pairs).
 
 
+## Developers
 
+**Miquel Parello:** Develop JPEG and frontend and other classes.
+
+**Ramon Mateo:** Develop LZSS and domain controler.
+
+The other classes and files were made in equal parts.
+
+All classes are named after the lead developer.
